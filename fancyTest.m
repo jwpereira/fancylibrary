@@ -4,5 +4,5 @@ end
 
 function testFanciness(testCase)
     s = getFancy;
-    testCase.assertEqual(s, 'kinda fancy');
+    testCase.assertEqual(s, 'pretty fancy');
 end
