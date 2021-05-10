@@ -1,4 +1,4 @@
-function tests = fancyTests
+function tests = fancyTest
     tests = functiontests(localfunctions);
 end
 
